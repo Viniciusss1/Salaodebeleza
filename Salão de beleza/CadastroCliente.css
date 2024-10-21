@@ -1,0 +1,44 @@
+* {
+
+    text-align: center;
+   
+}
+body {
+
+    background-color:#F8A2D8 ;
+}
+h1 {
+
+margin-top: 80px;
+
+}
+
+.container {
+
+    margin-top: 100px;
+}
+
+
+input {
+
+    width: 240px;
+    height: 30px;
+    background-color: whitesmoke;
+}
+
+button {
+
+    width: 113px;
+    height: 32px;
+    background-color:#E24BF0 ;
+    outline: none;
+    border: none;
+}
+
+a {
+
+    text-decoration: none;
+    color: black;
+
+}
+
