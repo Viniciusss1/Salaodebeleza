@@ -1,0 +1,68 @@
+body {
+
+    background-color: #F8A2D8;
+    text-align: center;
+}
+
+h1{
+
+    margin-top: 130px;
+}
+
+
+
+.Profissional {
+
+
+    font-size: 16px;
+    width: 250px;
+    text-align: center;
+    height: 38px;
+    border-radius: 5px;
+    border-color: #F8A2D8;
+    margin-top: 100px;
+    
+    
+}
+
+.data input[type="date"] {
+    width: 250px;  /* Ajuste a largura conforme necessário */
+    height: 40px;  /* Ajuste a altura conforme necessário */
+    font-size: 16px; /* Aumenta o tamanho da fonte */
+    padding: 5px;   /* Adiciona preenchimento interno */
+    border-radius: 5px; /* Arredonda as bordas, se desejado */
+    border: 1px solid #ccc; /* Adiciona uma borda */
+    box-sizing: border-box; /* Inclui padding e borda na largura total */
+    text-align: center;
+}
+
+
+.horarios select {
+    width: 250px;  /* Ajuste a largura conforme necessário */
+    height: 40px;  /* Ajuste a altura conforme necessário */
+    font-size: 16px; /* Aumenta o tamanho da fonte */
+    padding: 5px;   
+    border-radius: 5px; 
+    border: 1px solid #ccc; 
+    text-align: center;
+}
+
+button {
+
+    margin-top: 50px;
+    width: 120px;
+    height: 34px;
+    background-color: #E24BF0;
+    border-color: #E24BF0;
+    
+    
+}
+a {
+
+    text-decoration: none;
+    color: black ;
+}
+
+
+
+

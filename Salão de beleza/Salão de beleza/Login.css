@@ -1,0 +1,45 @@
+*{
+    background-color: #F8A2D8;]
+    
+}
+
+h1 {
+
+ text-align: center;
+ margin-top: 80px;
+}
+
+.container {
+
+    margin-top: 200px;
+    text-align: center;
+}
+
+input {
+    background-color: white;
+    height: 33px;
+    width: 200px;
+    border-color: #F8A2D8;
+}
+
+button {
+
+    width: 130px;
+    height: 28px;
+    border-radius: 10px;
+    background-color: #E24BF0;
+    border-color: #E24BF0;
+}
+
+.placeholder {
+
+    text-align: center;
+}
+
+a {
+
+    text-decoration: none;
+    background-color: #E24BF0;
+    color: black;
+    
+}
