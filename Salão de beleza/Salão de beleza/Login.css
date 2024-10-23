@@ -43,3 +43,8 @@ a {
     color: black;
     
 }
+
+.cadastrobutton {
+
+    cursor: pointer;
+}

@@ -1,0 +1,67 @@
+body {
+
+    background-color:#F8A2D8 ;
+    
+}
+
+
+img {
+    border-radius: 200px;
+    width: 90px;
+    height: 100px;
+}
+
+.historico1 {
+
+    display: flex;
+    word-spacing: 10px;
+}
+
+.info {
+
+    flex-direction: column;
+    display: flex;
+    padding-top: 10px;
+    margin-left: 10px;
+    word-spacing: 4px;
+    
+}
+
+.seila {
+
+    background-color: #BA55D3;
+    width: 360px;
+    border-radius: 10px;
+    height: 160px;
+}
+
+button {
+
+    margin-left: 70px;
+    width: 86px;
+    height: 30px;
+    
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    
+}
+
+.desmarcar {
+
+    background-color: #ff2401;
+   border-color: #BA55D3;
+}
+
+.remarcar {
+
+background-color: #008000;
+color: white;
+
+}
+
+
+
+
