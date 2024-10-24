@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Escolha de Avatar</title>
+</head>
+<body>
+    <div class="avatar-selector">
+        
+        <div id="avatar-modal" class="modal">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <h2>Escolha seu Avatar</h2>
+                <div class="avatars">
+                    <img src="avatar1.png" alt="Avatar 1" class="avatar" onclick="selectAvatar('avatar1.png')">
+                    <img src="avatar2.png" alt="Avatar 2" class="avatar" onclick="selectAvatar('avatar2.png')">
+                    <img src="avatar3.png" alt="Avatar 3" class="avatar" onclick="selectAvatar('avatar3.png')">
+                    <!-- Adicione mais avatares conforme necessário -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="profile">
+        <h2>Perfil</h2>
+        <img id="profile-avatar" src="perfil.png"  class="profile-avatar" />
+    </div>
+
+
+    <div>
+        <button id="select-avatar" >Escolher Avatar</button>
+    </div>
+
+    <div class="descricao">
+    <div>
+        <label for="">Nome completo</label>
+    </div>
+
+    <div>
+        <input type="text"><img class="lapis2" src="lapis2.png" alt="">
+    </div>
+    <br>
+    <div>
+        <label for="">CPF</label>
+    </div>
+
+    <div>
+        <input type="text"><img class="lapis2" src="lapis2.png" alt="">
+    </div>
+
+    <br>
+
+    <div>
+        <label for="">Telefone</label>
+    </div>
+
+    <div>
+        <input type="text"><img class="lapis2" src="lapis2.png" alt="">
+    </div>
+
+    <br>
+
+    <div>
+        <label for="">E-Mail</label>
+    </div>
+
+    <div>
+        <input type="text"><img class="lapis2" src="lapis2.png" alt="">
+    </div>
+
+    
+
+    <div class="confirmacao">
+        <button >
+            <label for="">Confirmação</label>
+        </button>
+    </div>
+
+
+    <div>
+        <button class="voltar">
+            <label for=""><a href="Catalogo.html"> Voltar </a></label>
+        </button>
+    </div>
+    
+    </div>
+    
+
+    <script src="script.js"></script>
+</body>
+</html>
